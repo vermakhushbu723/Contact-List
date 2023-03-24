@@ -1,12 +1,6 @@
 # HOSTED
 
-Link:-  https://charanreddy404-contact-list.netlify.app/
-
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+Link:- https://contact-list-85e3e.web.app/
 ## Available Scripts
 
 In the project directory, you can run:
